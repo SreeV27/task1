@@ -1,0 +1,134 @@
+ul {
+
+	padding-top: 15px;
+	padding-right: 23px;
+
+}
+
+ul li {
+	padding-left: 15px
+}
+
+li {
+	float: right;
+
+
+}
+
+li a {
+	display: block;
+	padding: 8px;
+	color: white;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+body {
+	background-image: url('../Assets/img.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    font-size: 81.25%;
+}
+::placeholder {
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+    font-size: 15px;
+  
+  
+}
+
+#logo {
+
+	height: 90px;
+
+	margin-top: 110px;
+	text-align: center;
+
+}
+
+#searchBar {
+	margin-top: 86px;
+	margin-left: 33%;
+	text-align: center;
+	border-radius: 27px;
+	width: 561px;
+	background: white;
+	display: flex;
+	height: 45px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#search {
+	width: 450px;
+	padding: 11px;
+
+	border: none;
+	font-size: 16px;
+	outline: none;
+}
+
+
+.material-symbols-outlined {
+	color: white;
+
+}
+
+.grey {
+	color: grey;
+}
+
+.icons {
+	padding-top: 8px;
+
+}
+
+#searchIcon {
+	margin-top: 11px;
+	margin-left: 15px;
+
+}
+
+#add {
+	background: white;
+	width: 43px;
+	height: 43px;
+	margin-left: 735px;
+	margin-top: 59px;
+	border-radius: 29px;
+	padding-top: 14px;
+	padding-left: 17px;
+}
+
+#addText {
+	color: white;
+	margin-left: 751px;
+	margin-top: 14px
+}
+
+.link {
+	color: white;
+	display: flex;
+	margin-top: 150px;
+	margin-left: 20px;
+}
+
+.white {
+	color: white;
+}
+
+#editIcon {
+	float: right;
+margin-right: 22px;
+}
+
+#profilePic{
+border-radius:15px;
+}
+#logoImg{
+margin-top :47px;
+}
